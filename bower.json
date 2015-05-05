@@ -14,7 +14,7 @@
     "dist/clappr.min.js"
   ],
   "dependencies": {
-    "clappr-zepto": "0.0.4",
+    "git@github.com:rpadovani/clappr-zepto.git": "0.0.4",
     "lodash": "3.0.0"
   },
   "devDependencies": {
